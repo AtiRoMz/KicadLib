@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DIP_Switch_2P
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
+#End Doc Library
