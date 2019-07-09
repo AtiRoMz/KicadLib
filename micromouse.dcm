@@ -1,8 +1,42 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
 $CMP DIP_Switch_2P
 D Double Pole Single Throw (DPST) Switch
 K switch
+$ENDCMP
+#
+$CMP DIP_Switch_4P
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
+$CMP DualOR
+D Quad Or 2 inputs
+K TTL Or2
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP My7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
 $ENDCMP
 #
 #End Doc Library
